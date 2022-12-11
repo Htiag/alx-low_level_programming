@@ -1,1 +1,1 @@
-readme on vaiable
+C - Variables, if, else, while
